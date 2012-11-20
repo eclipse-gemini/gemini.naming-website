@@ -14,7 +14,7 @@
 	$App->AddExtraHtmlHeader('<link rel="stylesheet" type="text/css" href="/gemini/naming/style.css"/>');
 	
 	$localVersion = false;
-	
+
 	# Define these here, or in _projectCommon.php for site-wide values
 	$pageKeywords	= "eclipse, project, osgi, naming , gemini";
 	$pageAuthor		= "Bob Nettleton";
