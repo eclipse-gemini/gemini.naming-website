@@ -21,6 +21,23 @@
 	<p>All downloads are provided under the terms and conditions of the <a href="/legal/epl/notice.php">Eclipse Foundation Software User Agreement</a> unless otherwise specified.</p>
 
 	<h2>Releases</h2>
+
+    <h4>1.0.2.RELEASE</h4>
+	<div>
+		<ul>
+ 		<li><strong>Gemini Naming</strong> - <a href="http://www.eclipse.org/downloads/download.php?file=/gemini/naming/r1.0/gemini-naming-1.0.2.RELEASE.zip">Download</a></li>
+		<li><strong>Gemini Naming p2 repository</strong> - <a href='http://download.eclipse.org/gemini/updates/naming/1.0.2/' target='_self'>http://download.eclipse.org/gemini/updates/naming/1.0.2/</a></li>
+		<li>
+			<strong>Gemini Naming maven repository</strong> - <a href='http://download.eclipse.org/gemini/mvn/' target='_self'>http://download.eclipse.org/gemini/mvn/</a>
+<pre>
+&lt;groupId&gt;org.eclipse&lt;/groupId&gt;
+&lt;artifactId&gt;org.eclipse.gemini.naming&lt;/artifactId&gt;
+&lt;version&gt;1.0.2.RELEASE&lt;/version&gt;
+</pre>		
+		</li>
+		<li><strong>Bug list is available</strong> - <a href="https://bugs.eclipse.org/bugs/buglist.cgi?classification=RT;query_format=advanced;bug_status=RESOLVED;bug_status=VERIFIED;bug_status=CLOSED;target_milestone=1.0.2.RELEASE;product=Gemini.Naming" target="_self">here</a>.</li>
+		</ul>
+	</div>
 	
     <h4>1.0.1.RELEASE</h4>
 	<div>
